@@ -47,6 +47,7 @@ python -m pip install -r requirements.txt
 2. Run links
 
 python scraper/links_scraper.py
+
 python scraper/recipe_scraper.py
 
 ## ⚠ Ethical Notice
